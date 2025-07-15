@@ -1,0 +1,24 @@
+[submodule "solidity/2025-07-15/nora/nft-staking/lib/forge-std"]
+	path = solidity/2025-07-15/nora/nft-staking/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "solidity/2025-07-15/nora/nft-staking/lib/openzeppelin-contracts"]
+	path = solidity/2025-07-15/nora/nft-staking/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "solidity/2025-07-15/nora/governance-module/lib/forge-std"]
+	path = solidity/2025-07-15/nora/governance-module/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "solidity/2025-07-15/nora/governance-module/lib/openzeppelin-contracts"]
+	path = solidity/2025-07-15/nora/governance-module/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "solidity/2025-07-15/nora/interest-rate-model/lib/forge-std"]
+	path = solidity/2025-07-15/nora/interest-rate-model/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "solidity/2025-07-15/nora/interest-rate-model/lib/openzeppelin-contracts"]
+	path = solidity/2025-07-15/nora/interest-rate-model/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "solidity/2025-07-15/nora/swap_dex/lib/forge-std"]
+	path = solidity/2025-07-15/nora/swap_dex/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "solidity/2025-07-15/nora/swap_dex/lib/openzeppelin-contracts"]
+	path = solidity/2025-07-15/nora/swap_dex/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
