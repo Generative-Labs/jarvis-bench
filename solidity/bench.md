@@ -1,3 +1,3 @@
-我们现在使用 input.json 里面的prompt 要求 claude code 和 cursor 写 solidity.
+We are now using the prompt in input.json to ask Claude Code and Cursor to write Solidity.
 
-cursor 我们加上了 [solidity project rules](../.cursor/rules/.cursorrules)
+[solidity project rules](../.cursor/rules/.cursorrules)
